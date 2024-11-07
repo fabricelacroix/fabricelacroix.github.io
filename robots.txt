@@ -1,1 +1,1 @@
-Sitemap: https://fabricelacroix.github.io/personal_website/sitemap.xml
+Sitemap: https://fabricelacroix.github.io/sitemap.xml
