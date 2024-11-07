@@ -1,0 +1,56 @@
+---
+title: "Publications"
+---
+
+### In Review ###
+
+Moree, A.L., Lacroix, F., Cheung, W.L. & Frölicher T.F. Long-term impacts of global temperature stabilization and overshoot on exploited marine species. Submitted to Biogeosciences.
+
+Schuster, L., et al. (Incl. Lacroix, F.): Irreversible glacier change and trough water for centuries after overshooting 1.5° C. In review for Nature Climate Change. 
+
+Silvy, Y. et. al. (Incl. Lacroix, F.): AERA-MIP: Emission pathways, remaining budgets and carbon cycle dynamics compatible with 1.5 ºC and 2 ºC global warming stabilization, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2024-488](https://doi.org/10.5194/egusphere-2024-488), 2024.
+
+### Published ###
+
+**2024**
+
+Lacroix, F., Burger, F. A., Silvy, Y., Schleussner, C.‐F., & Frölicher, T. L. (2024). Persistently elevated high‐latitude ocean temperatures and global sea level following temporary overshoots. Earth's Future, 12, e2024EF004862. [https://doi.org/10.1029/2024EF004862](https://doi.org/10.1029/2024EF004862) 
+
+Schleussner, C.F. et al. (Incl. Lacroix, F., 2024). Overconfidence in climate overshoot. Nature 634, 366–373. [https://doi.org/10.1038/s41586-024-08020-9](https://doi.org/10.1038/s41586-024-08020-9)
+
+Liu, M., Raymond, P.A., Lauerwald, R. et al. (Incl. Lacroix, F., 2024). Global riverine land-to-ocean carbon export constrained by observations and multi-model assessment. Nat. Geosci. 17, 896–904 (2024). [https://doi.org/10.1038/s41561-024-01524-z](https://doi.org/10.1038/s41561-024-01524-z)
+
+Ernst, Y.,  Archibald, S.,  Balzter, H.,  et al. (Incl. Lacroix, F., 2024). The African regional greenhouse gases budget (2010–2019). Global Biogeochemical Cycles,  38, e2023GB008016. [https://doi.org/10.1029/2023GB008016](https://doi.org/10.1029/2023GB008016)
+
+Mathis, M., Lacroix, F., Hagemann S., Nielsen, D., Ilyina, T., Schrum, C. (2024): Enhanced CO2 uptake of the coastal ocean is dominated by biological carbon fixation. Nature Climate Change. [https://doi.org/10.21203/rs.3.rs-2928105/v1](https://doi.org/10.21203/rs.3.rs-2928105/v1)
+
+Resplandy, L.,  Hogikyan, A.,  Müller, J. D., et al. (incl. Lacroix, F., 2024).  A synthesis of global coastal ocean greenhouse gas fluxes. Global Biogeochemical Cycles,  38, e2023GB007803. [https://doi.org/10.1029/2023GB007803](https://doi.org/10.1029/2023GB007803)
+
+
+**2023**
+
+Lacroix F. Arctic Rivers tell Tales of Change. Nature Geoscience, 16, 760-761. [https://doi.org/10.1038/s41561-023-01248-6](https://doi.org/10.1038/s41561-023-01248-6) 
+
+Schaller, J. et al. (incl. Lacroix, F., 2023): Arctic soil CO2 release during freeze-thaw cycles modulated by silicon and calcium. Science of the Total Environment, 870, 161943. [https://doi.org/10.1016/j.scitotenv.2023.161943](https://doi.org/10.1016/j.scitotenv.2023.161943)
+
+Stimmler, P. et al. (incl. Lacroix, F., 2023): Pan-Arctic soil element availability estimations. Earth System Science Data, 15, 1059–1075. [https://doi.org/10.5194/essd-15-1059-2023](https://doi.org/10.5194/essd-15-1059-2023)
+
+**2022**
+
+Mathis, M., Logemann, K., Maerz, J., Lacroix, F., Hagemann, S., Chegini, F., et al. (2022). Seamless integration of the coastal ocean in global marine carbon cycle modeling. Journal of Advances in Modeling Earth Systems, 14, e2021MS002789. [https://doi.org/10.1029/2021MS002789](https://doi.org/10.1029/2021MS002789)
+
+Lacroix, F., Zaehle, S., Caldararu, S., Schaller, J., Stimmler, P., Holl, D., Kutzbach, L., & Göckede, M. (2022). Mismatch of N release from the permafrost and vegetative uptake opens pathways of increasing nitrous oxide emissions in the high Arctic. Global Change Biology, 28, 5973– 5990.  [https://doi.org/10.1111/gcb.16345](https://doi.org/10.1029/2021MS002789)
+
+Dai, M., Su, J., Zhao, Y., Hofmann, E.E., Cao, Z., Cai, W.-J., Gan, J., Lacroix, F., Laruelle, G.G., Meng, F., Müller, J. D., Regnier, P.A.G., Wang, G., Wang, Z (2022): Carbon Fluxes in the Coastal Ocean: Synthesis, Boundary Processes and Future Trend, Annual Review of Earth and Planetary Sciences 50(1). [https://doi.org/10.1146/annurev-earth-032320-090746](https://doi.org/10.1146/annurev-earth-032320-090746) 
+
+**2021**
+
+Lacroix, F., Ilyina, T., Mathis, M., Laruelle, G. G., & Regnier, P. (2021): Historical increases in land-derived nutrient inputs may alleviate effects of a changing physical climate on the oceanic carbon cycle. Global Change Biology, 00, 1–23. [https://doi.org/10.1111/gcb.15822](https://doi.org/10.1111/gcb.15822)
+
+Lacroix, F., Ilyina, T., Laruelle, G. G., & Regnier, P. (2021): Reconstructing the preindustrial coastal carbon cycle through a global ocean circulation model: Was the global continental shelf already both autotrophic and a CO2 sink?. Global Biogeochemical Cycles, 35, e2020GB006603. [https://doi.org/10.1029/2020GB006603](https://doi.org/10.1029/2020GB006603)
+
+**2020**
+
+Lacroix F., Ilyina T. & Hartmann, J. (2020): Oceanic CO2 outgassing and biological production hotspots induced by pre-industrial river loads of nutrients and carbon in a global modeling approach, Biogeosciences, 17, 55–88. [https://doi.org/10.5194/bg-17-55-2020](https://doi.org/10.5194/bg-17-55-2020)
+
+
